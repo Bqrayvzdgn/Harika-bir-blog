@@ -1,0 +1,51 @@
+.container {
+  max-width: 650px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.hero {
+  text-align: center;
+  margin: 68px 0;
+}
+
+.hero-title {
+  font-size: 48px;
+}
+
+.social-link {
+  margin-right: 8px;
+}
+
+.blog-text {
+  font-size: larger;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.blog-date {
+  text-align: right;
+  color: #cccccc;
+  margin: 20px 0 48px 0;
+}
+
+.blog-author {
+  text-align: left;
+  color: #cccccc;
+  margin: -36px 0 48px 0;
+}
+
+a {
+  color: #35459e;
+  text-decoration: none;
+}
+
+.hero-profile-img {
+  border-radius: 25%;
+}
+nav {
+  margin: 20px 0;
+  text-align: center;
+}
+.nav-link {
+  margin-right: 50px;
+}
