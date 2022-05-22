@@ -14,23 +14,23 @@ export const BlogPost = ({ post }) => (
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
-    <nav class="navbar-expand-lg navbar-light bg-light">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="#"></a>
-        <div class="collapse navbar-collapse">
-          <div class="navbar-nav">
-            <a class="nav-link" href="/">
+    <nav className="navbar-expand-lg navbar-light bg-light">
+      <div className="container-fluid">
+        <a className="navbar-brand" href="#"></a>
+        <div className="collapse navbar-collapse">
+          <div className="navbar-nav">
+            <a className="nav-link" href="/">
               Anasayfa
             </a>
-            <a class="nav-link" href="/hakkimda">
+            <a className="nav-link" href="/hakkimda">
               Hakkımda
             </a>
-            <a class="nav-link" href="/bilgi-ve-beceriler">
+            <a className="nav-link" href="/bilgi-ve-beceriler">
               Bilgi & Beceriler
             </a>
             <a
               target="_blank"
-              class="nav-link"
+              className="nav-link"
               href="https://github.com/Bqrayvzdgn?tab=repositories"
             >
               Portfolyo
