@@ -42,10 +42,12 @@ a {
 .hero-profile-img {
   border-radius: 25%;
 }
+
 nav {
   margin: 20px 0;
   text-align: center;
 }
+
 .nav-link {
   margin-right: 50px;
 }
