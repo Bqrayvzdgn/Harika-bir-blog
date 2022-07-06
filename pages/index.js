@@ -44,8 +44,8 @@ export const Home = ({ posts }) => (
       <div className="hero-profile">
         <Image
           className="hero-profile-img"
-          src="/Iam.jpg"
-          width="350"
+          src="/bqr.jpg"
+          width="300"
           height="300"
           alt="I'm"
         />

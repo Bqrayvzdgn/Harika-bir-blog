@@ -53,7 +53,7 @@ export const getPosts = () => {
         "Adım Buğrahan Yavuzdoğan. 3 Ekim 2005'de İstanbul Gaziosmanpaşa'da doğdum. İlk ve orta öğrenimimi bitirdim şu anda ise İstanbulda bir lisede eğitimime devam ediyorum...",
       details:
         "Adım Buğrahan Yavuzdoğan. 3 Ekim 2005'de İstanbul Gaziosmanpaşa'da doğdum. İlk ve orta öğrenimimi bitirdim şu anda ise İstanbulda bir lisede eğitimime devam ediyorum. 14 yaşımda Web tasarım ve Yazılımla tanışıp bu alanda ilerleme kararı aldım. Hayatımdaki en mantıklı kararlarından birini almıştım çünkü bu alanda çalışmayı ve geliştirmeler yapmayı çok seviyordum. Yazılım geliştirirken en çok kullandığım diller C#, Nextjs, HTML-CSS'dir. Şu anda öğrenme çabasında olduğum diller ise Reactjs ve C Programlama dilidir. Bu dilleri öğrenince ilerki Yazılım hayatımda bana kolaylık sağlayacağını biliyorum. Bu yüzden çalışmalarıma ve geliştirmelerime tam gaz devam ediyorum. Diğer hobilerim arasında ise Yüzmek, Futbol oynamak ve Gitar çalmak vardır. Şu anda 17 yaşımdayım ve kariyerime Öğrenci/Web JR Developer olarak devam ettirmekteyim... ",
-      date: "20 Mayıs 2005",
+      date: "20 Mayıs 2022",
       author: "Buğrahan Yavuzdoğan",
       author_link: "https://github.com/Bqrayvzdgn",
     },
@@ -64,9 +64,17 @@ export const getPosts = () => {
         "C# ile Geliştirmiş olduğum Bir Kütüphane Uygulması mevcuttur. Bu uygulama MSSQL ile desteklenmektedir. Bir Admin giriş paneli ve Kitap'ı veritabanına aktarma vardır.",
       details:
         "C# ile Geliştirmiş olduğum Bir Kütüphane Uygulması mevcuttur. Bu uygulama MSSQL ile desteklenmektedir. Bir Admin giriş paneli ve Kitap'ı veritabanına aktarma vardır. Nextjs ile geliştirdiğim fazla proje yoktur hatta ilk projem bu yapmış olduğum blog sitesidir. HTML-CSS ile yapmış olduğum bir sürü proje vardır. Bunlar; Kişisel siteler, Kurumsal siteler ve Blog siteleridir. Şu anda ise öğrenmeye çalıştığım dillerde (C,Reactjs) ise pek çalışmalarım yoktur ufak tefek algoritma ve basit siteler mevcuttur...",
-      date: "20 Mayıs 2005",
+      date: "20 Mayıs 2022",
       author: "Buğrahan Yavuzdoğan",
       author_link: "https://github.com/Bqrayvzdgn",
     },
+    {
+      title: "Sunucu güvenlik servisleri sunucularınızı nasıl korur?",
+      slug: "sunucu-güvenlik-servisleri-sunucularınızı-nasıl-korur",
+      short_details: "",
+      details: "",
+      date: "06 Haziran 2022",
+      
+    }
   ];
 };
